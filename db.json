@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "id": "12",
+      "Name": "Компьютер AMD 260",
+      "Description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "Image": "img_1.png",
+      "Price": 117,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "17",
+      "Name": "Ноутбук HP Pavilion",
+      "Description": "Aliquam gravida ex sit amet volutpat tempor. Pellentesque scelerisque, ante quis ultrices convallis, neque quam sagittis nulla, quis ultrices lectus justo ac lacus. Integer eu tortor leo. Donec eget o",
+      "Image": "img_2.png",
+      "Price": 93,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "d8aab5d7-a7e1-44cb-af5a-7419cfdfcffa",
+      "Name": "Монитор Samsung",
+      "Description": "21111111111111111111111",
+      "Image": "img_3.png",
+      "Price": 10,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "fe0c1dcf-481d-4007-a2a9-087261d03252",
+      "Name": "Клавиатура LG",
+      "Description": "111111111111111111111111111111111111",
+      "Image": "img_4.png",
+      "Price": 111,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "fc9d38ce-9ec9-4d70-8d0a-f6bdf882b1c2",
+      "Name": "Мышь беспроводная",
+      "Description": "111111111111111111111111111",
+      "Image": "img_5.png",
+      "Price": 1,
+      "CreationDate": "2021-09-08"
+    }
+  ]
+}
