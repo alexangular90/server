@@ -1,11 +1,11 @@
 {
   "product": [
     {
-      "id": "12",
-      "Name": "Компьютер AMD 260",
-      "Description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
-      "Image": "img_1.png",
-      "Price": 117,
+      "id": "d8aab5d7-a7e1-54cb-af5a-7419cfdfcffa",
+      "Name": "Acer Aspire 7 A715-42G",
+      "Description": "Линейка ноутбуков Acer Aspire уже настолько давно присутствует на рынке, что наверняка хорошо знакома всем, кто хоть раз присматривал себе решение с отличным балансом цены и возможностей. Ведь именно этим в первую очередь примечательна данная серия: если вы не готовы переплачивать за флагманские игровые ноутбуки, то всегда можете присмотреть себе подходящую по всем параметрам модель в этой линейке.",
+      "Image": "img_1.jpg",
+      "Price": 32117,
       "CreationDate": "2021-09-08"
     },
     {
