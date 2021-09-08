@@ -10,34 +10,50 @@
     },
     {
       "id": "17",
-      "Name": "Ноутбук HP Pavilion",
-      "Description": "Aliquam gravida ex sit amet volutpat tempor. Pellentesque scelerisque, ante quis ultrices convallis, neque quam sagittis nulla, quis ultrices lectus justo ac lacus. Integer eu tortor leo. Donec eget o",
-      "Image": "img_2.png",
-      "Price": 93,
+      "Name": "ASUS Transformer Mini T102HA",
+      "Description": "Тайваньский гигант имеет просто колоссальный опыт в создании разнообразных устройств 2-в-1 и старается постоянно радовать своих поклонников новыми, интересными и функциональными решениями. На страницах нашего ресурса мы неоднократного знакомились как с классическими трансформерами (например, ASUS Transformer Book T90 Chi), так и с ультрабуками-перевертышами (например, ASUS ZenBook Flip UX360CA). Все они призваны заменить собой планшет и ноутбук, при сохранении максимальной мобильности. В данном материале речь пойдет о самом свежем «планшетобуке» – ASUS Transformer Mini T102HA.",
+      "Image": "img_2.jpg",
+      "Price": 29300,
       "CreationDate": "2021-09-08"
     },
     {
       "id": "d8aab5d7-a7e1-44cb-af5a-7419cfdfcffa",
       "Name": "Монитор Samsung",
       "Description": "21111111111111111111111",
-      "Image": "img_3.png",
-      "Price": 10,
+      "Image": "img_3.jpg",
+      "Price": 35510,
       "CreationDate": "2021-09-08"
     },
     {
       "id": "fe0c1dcf-481d-4007-a2a9-087261d03252",
       "Name": "Клавиатура LG",
       "Description": "111111111111111111111111111111111111",
-      "Image": "img_4.png",
-      "Price": 111,
+      "Image": "img_4.jpg",
+      "Price": 31600,
       "CreationDate": "2021-09-08"
     },
     {
       "id": "fc9d38ce-9ec9-4d70-8d0a-f6bdf882b1c2",
       "Name": "Мышь беспроводная",
       "Description": "111111111111111111111111111",
-      "Image": "img_5.png",
-      "Price": 1,
+      "Image": "img_5.jpg",
+      "Price": 32100,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "fc9d38ce-9ec9-4d70-8d0a-f6bdf882b1c2",
+      "Name": "Мышь беспроводная",
+      "Description": "111111111111111111111111111",
+      "Image": "img_6.jpg",
+      "Price": 37100,
+      "CreationDate": "2021-09-08"
+    },
+    {
+      "id": "fc9d38ce-9ec9-4d70-8d0a-f6bdf882b1c2",
+      "Name": "Мышь беспроводная",
+      "Description": "111111111111111111111111111",
+      "Image": "img_7.jpg",
+      "Price": 41100,
       "CreationDate": "2021-09-08"
     }
   ]
